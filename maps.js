@@ -1,5 +1,4 @@
 const addresses = [
-    "https://maps.app.goo.gl/PC89zWtsSw6G7vLY7",
     "https://maps.app.goo.gl/CRioHLHfm8Eg49ah9",
     "https://maps.app.goo.gl/EQkdPFY28qexhQi47",
     "https://maps.app.goo.gl/Qg8i7ooUMYWPQFXk7",
