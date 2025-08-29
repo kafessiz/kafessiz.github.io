@@ -1,16 +1,12 @@
 const addresses = [
-    "https://maps.app.goo.gl/FCRY9ZzikU2hRXkSA",
-    "https://maps.app.goo.gl/duFqF82jakr1Q3dE9",
-    "https://maps.app.goo.gl/4bqcq1H1eN9q1b6g9",
-    "https://maps.app.goo.gl/YUTsFY1ybB5FGtd99",
-    "https://maps.app.goo.gl/773yAKxNnaPdcPSj6",
-    "https://maps.app.goo.gl/DqFDoe7qrBMGKXCdA",
-    "https://maps.app.goo.gl/wQ2K3rvyCr2o7TAL7",
-    "https://maps.app.goo.gl/7HUHEj8rEdJPSaaA9",
-    "https://maps.app.goo.gl/YE23Rj73vLmtvxve9",
-    "https://maps.app.goo.gl/2TcWoVfhxrq1Wwcd8",
-    "https://maps.app.goo.gl/nDPzzvgXotz9t8rQ9",
-    "https://maps.app.goo.gl/3Hz2x7KMzX4x91t68"
+    "https://maps.app.goo.gl/ub4pHjevsV1fBNZp9",
+    "https://maps.app.goo.gl/pan1nDPmJK3crCMo8",
+    "https://maps.app.goo.gl/a8LbiRXuudH3MuMc8",
+    "https://maps.app.goo.gl/4fw9D6zujLG5EccH6",
+    "https://maps.app.goo.gl/SRaM5dkXkXCaKqDx9",
+    "https://maps.app.goo.gl/sQKNmgQf4VfzYtD67",
+    "https://maps.app.goo.gl/gCzcFC1LVQAPbSdu7",
+    "https://maps.app.goo.gl/1LfbdiDNYJmBHa658"
     
   
     
